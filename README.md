@@ -1,2 +1,2 @@
 # Break-It-on-Purpose
-## Team Members | Alex Kurcan
+## Team Member | Alex Kurcan
